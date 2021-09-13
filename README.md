@@ -1,1 +1,1 @@
-# CTDLGT_LinkedList
+Bai tap cau truc du lieu va giai thuat - LinkedList
